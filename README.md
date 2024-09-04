@@ -19,18 +19,27 @@ Installation
 git clone https://github.com/Devil9630/Google-Docking-Tool.git
 
 cd google-dorking-tool
+
 # Install the required dependencies:
 pip install -r requirements.txt
+
 # Usage
 To run the tool, use the following command:
+
 python google_dorking_tool.py
+
 # Options
 -d, --dork : Specify a custom Google Dork query.
+
 -f, --file : Load dorks from a file.
+
 -o, --output : Specify an output file to save the results.
+
 -h, --help : Show help message and exit.
+
 # Example:
 python google_dorking_tool.py -d "intitle:index of" -o results.csv
+
 # Disclaimer
 This tool is intended for educational and ethical purposes only. Use it responsibly and ensure you have proper authorization before performing any tests on websites or systems. The author is not responsible for any misuse or damage caused by this tool.
 
