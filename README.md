@@ -16,7 +16,7 @@ Python 3.x
 Required Python packages (e.g., requests, BeautifulSoup4, etc.)
 Installation
 # Clone the repository:
-git clone https://github.com/Devil9630/google-dorking-tool.git
+git clone https://github.com/Devil9630/Google-Docking-Tool.git
 cd google-dorking-tool
 # Install the required dependencies:
 pip install -r requirements.txt
