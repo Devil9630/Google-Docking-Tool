@@ -1,0 +1,8 @@
+whois
+requests
+beautifulsoup4
+google
+validators
+Pillow
+pytesseract
+python-dotenv
